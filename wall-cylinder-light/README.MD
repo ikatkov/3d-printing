@@ -1,6 +1,6 @@
 I could not find **any** suitable outdoor gallery light fixture for my wife's succulent planter. 
-I understand that "suitable" is rather subjective, but a reasonable outdoor fixture need to be powered from
-a 12V AC landscape circuits, be weatherproof and be cheap to replace. IMHO this is not really a long list
+I understand that "suitable" is rather subjective, but a reasonable outdoor fixture is powered from
+a 12V AC landscape circuits, is weatherproof and is cheap to replace. IMHO this is not really a long list
 of requirements. 
 
 Note that weatherproofing of landscape lights fixtures is rather simplistic - plastic needs to withstand 
@@ -18,24 +18,24 @@ Since I could not find it, I had to build my own.
 <img src="./petg.jpg" height="100"> | PETG for plastic, you will use ~$1.5 worth of it per lamp| $23 | [amazon][2]
 <img src="./wire.jpg" height="100"> | 50' 16/2 AWG landscape wire| $15 | [homedepot][4]
 
-Other pats I had on hands.
+Other parts I had on hands.
 * M4 bolts and nuts
 * 1-1/2" ABS pipe
 * wire nuts
 * dielectric grease
-* two part epoxy
+* two-part epoxy
 * circular saw 
 * copper foil 
 * black spray paint
 * xt60 connectors
 
 
-If you can get 18/2 or thinner outdoor wire - get it, current consumption of a single G4 led is 80mA @ 12V. 
+If you can get 18/2 or thinner outdoor wire - get it, the current consumption of a single G4 led is 80mA @ 12V. 
 You might as well consider making them battery powered but outdoor mechanical switches might not be cheap 
-and water will get into your battery enclosure. Solar powered light is another option, but it might 
+and water will get into your battery enclosure. Solar-powered light is another option, but it might 
 not be bright enough for long enough.
 
-You can also skip foil decoration bit.
+You can also skip the foil decoration bit.
 
 # This is how it looks installed.
 
@@ -51,10 +51,12 @@ get no layers marks.
 # Printed and assembled
 <img src="./printed-lamps.jpeg" height="400"> 
 
-I cut a shallow groves 1/8" wide with a circular saw and put thin stripes of copper foil. Pieces assembled 
-together with two part epoxy. The only non-rigid revolving joint is between the handle and the cyclinder. 
+I cut shallow groves 1/8" wide with a circular saw and put thin strips of copper foil. Parts assembled 
+with two-parts epoxy. The only non-rigid revolving joint is between the handle and the cylinder. 
 Use M4 bolt and nut there. Friction is enough to hold the cylinder in a position you chose.  
-I knew I had to take the frame off the fence multiple times, so I added [XT60 connectors](./xt60.jpeg).
+I knew I had to take the frame off the fence multiple times, so I added [XT60 connectors](./xt60.jpeg),
+but you can go with traditional wire nuts there as well. You should not be too worried about electric shorts
+and be more worried about corrosion.    
 
 
 # STLs

@@ -39,7 +39,7 @@ You can also skip the foil decoration bit.
 
 # This is how it looks installed.
 
-<img src="./installed.jpeg" height="400"> <img src="./installed-at-night.jpeg" height="400">
+<img src="./installed.jpeg" height="400"> <img src="./installed-at-night.jpg" height="400">
 
 # Fusion 360
 
